@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="136" height="74" viewBox="0 0 136 74">
+  <defs>
+    <clipPath id="clip-mainlogo">
+      <rect width="136" height="74"/>
+    </clipPath>
+  </defs>
+  <g id="mainlogo" clip-path="url(#clip-mainlogo)">
+    <rect width="136" height="74" fill="#713fff"/>
+    <text id="_" data-name="𝐙" transform="translate(6 -4)" fill="#fff" stroke="#08033b" stroke-width="1.5" font-size="50" font-family="SegoeUISymbol, Segoe UI Symbol"><tspan x="0" y="54">𝐙</tspan></text>
+    <text id="_2" data-name="𝐚" transform="translate(36 9)" fill="#08033b" font-size="38" font-family="SegoeUISymbol, Segoe UI Symbol"><tspan x="0" y="41">𝐚</tspan></text>
+    <text id="_3" data-name="𝐠" transform="translate(57 9)" fill="#08033b" font-size="38" font-family="SegoeUISymbol, Segoe UI Symbol"><tspan x="0" y="41">𝐠</tspan></text>
+    <text id="_4" data-name="𝐢" transform="translate(79 9)" fill="#08033b" font-size="38" font-family="SegoeUISymbol, Segoe UI Symbol"><tspan x="0" y="41">𝐢</tspan></text>
+    <text id="_5" data-name="𝐟" transform="translate(91 9)" fill="#08033b" font-size="38" font-family="SegoeUISymbol, Segoe UI Symbol"><tspan x="0" y="41">𝐟</tspan></text>
+    <text id="_6" data-name="𝐲" transform="translate(106 9)" fill="#08033b" font-size="38" font-family="SegoeUISymbol, Segoe UI Symbol"><tspan x="0" y="41">𝐲</tspan></text>
+  </g>
+</svg>
